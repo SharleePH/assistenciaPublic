@@ -17,3 +17,4 @@ Employee attendance system written in PHP, Bootstrap and MySQL
 2. Create database and import tables listed in **schema.sql**
 3. Create **env.php** file, taking **env.example.php** as example and set your database credentials
 4. Enjoy"# assistenciaPublic" 
+"# assistenciaPublic" 
